@@ -54,6 +54,5 @@
 
 ###
 
-<p align="left">LinkedIn Here</p>
 
 ###
