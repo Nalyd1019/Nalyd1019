@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently doing my master thesis by researching machine learning models to aid in drug discovery<br>🎯 Goals: Continue to learn new things and write code that will be used in the real-world<br>🎲 Fun fact: In my spare time I fly gliders (airplanes without engines)</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently doing my master thesis by researching machine learning models to aid in drug discovery<br>🎯 Goals: Continue to learn new things and write code that will be used in the real-world<br>🎲 Fun fact: In my spare time I fly gliders (airplanes without engines)</p>
 
 ###
 
