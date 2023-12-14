@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dylan and I am a 5th year Computer Science student at Chalmers University of Technology in Gothenburg. During the first years of my degree I studied a lot of Programming and Software Engineering Principles while the later parts have focused on Machine Learning, AI and Algorithms </p>
+<p align="left">My name is Dylan and I am a 5th year Computer Science student at Chalmers University of Technology in Gothenburg. During the first years of my degree I studied a lot of Programming, Mathematics and Software Engineering Principles while the later parts have focused on Machine Learning, AI and Algorithms </p>
 
 ###
 
